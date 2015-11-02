@@ -21,6 +21,9 @@
     NSLog(@"1234");
     
     
+    NSLog(@"sdaswegsdgsdt");
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
